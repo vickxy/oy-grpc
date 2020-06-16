@@ -1,3 +1,6 @@
+# py-grpc
+Easy gRPC server and client implementation in python
+
 * This is example project that contains gRPC server and gRPC client Example
 * To run it, create a virtual env and install gRPC package
     * $ python -m pip install virtualenv
